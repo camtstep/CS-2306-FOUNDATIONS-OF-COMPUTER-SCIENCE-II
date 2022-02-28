@@ -1,0 +1,20 @@
+A201
+Avengers: Endgame
+Scarlett Johansson
+Chris Evans
+2019 8.6
+B331
+Despicable Me 3
+Steve Carell
+Kristen Wiig
+2017 6.1
+D210
+Neighbors
+Zac Efron
+Rose Byrne
+2014 6.3
+Z122
+Beauty and the Beast
+Emma Watson
+Dan Stevens
+2017 7.2
